@@ -1,6 +1,6 @@
 # ec311_lab2
 
-James Conlon
+James Conlon  
 Ethan Levine
 
 EC311 Lab2
